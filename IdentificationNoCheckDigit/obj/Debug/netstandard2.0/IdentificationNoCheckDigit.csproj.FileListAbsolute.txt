@@ -1,0 +1,9 @@
+c:\users\peak-asus\source\repos\IdentificationNoCheckDigit\IdentificationNoCheckDigit\bin\Debug\netstandard2.0\IdentificationNoCheckDigit.deps.json
+c:\users\peak-asus\source\repos\IdentificationNoCheckDigit\IdentificationNoCheckDigit\bin\Debug\netstandard2.0\IdentificationNoCheckDigit.dll
+c:\users\peak-asus\source\repos\IdentificationNoCheckDigit\IdentificationNoCheckDigit\bin\Debug\netstandard2.0\IdentificationNoCheckDigit.pdb
+c:\users\peak-asus\source\repos\IdentificationNoCheckDigit\IdentificationNoCheckDigit\obj\Debug\netstandard2.0\IdentificationNoCheckDigit.csprojResolveAssemblyReference.cache
+c:\users\peak-asus\source\repos\IdentificationNoCheckDigit\IdentificationNoCheckDigit\obj\Debug\netstandard2.0\IdentificationNoCheckDigit.csproj.CoreCompileInputs.cache
+c:\users\peak-asus\source\repos\IdentificationNoCheckDigit\IdentificationNoCheckDigit\obj\Debug\netstandard2.0\IdentificationNoCheckDigit.AssemblyInfoInputs.cache
+c:\users\peak-asus\source\repos\IdentificationNoCheckDigit\IdentificationNoCheckDigit\obj\Debug\netstandard2.0\IdentificationNoCheckDigit.AssemblyInfo.cs
+c:\users\peak-asus\source\repos\IdentificationNoCheckDigit\IdentificationNoCheckDigit\obj\Debug\netstandard2.0\IdentificationNoCheckDigit.dll
+c:\users\peak-asus\source\repos\IdentificationNoCheckDigit\IdentificationNoCheckDigit\obj\Debug\netstandard2.0\IdentificationNoCheckDigit.pdb
